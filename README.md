@@ -2,7 +2,8 @@
 
 # Resources and Code
 
-[View Resources →](https://fernandorojo.co/conf)
+- [View Resources →](https://fernandorojo.co/conf)
+- [Follow me on Twitter](https://twitter.com/fernandotherojo)
 
 # Talk Details
 
