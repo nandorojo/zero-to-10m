@@ -1,8 +1,8 @@
-<a href="https://fernandorojo.co/conf"><img width="1774" alt="Zero to $10 Million with React Native + Next.js" src="https://user-images.githubusercontent.com/13172299/138901243-e28ba70d-ee44-4370-a20c-aa49ed78caad.png"></a>
+<a target="_blank" href="https://fernandorojo.co/conf"><img width="1774" alt="Zero to $10 Million with React Native + Next.js" src="https://user-images.githubusercontent.com/13172299/138901243-e28ba70d-ee44-4370-a20c-aa49ed78caad.png"></a>
 
 # Resources and Code
 
-- [View Resources →](https://fernandorojo.co/conf)
+- <a target="_blank" href="https://fernandorojo.co/conf">View Resources →</a>
 - [Follow me on Twitter](https://twitter.com/fernandotherojo)
 
 # Talk Details
